@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc955269-a9d9-491f-bbfb-00a0c5aa3934" name="Default Changelist" comment="TODO 2 commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TODO_list/templates/TODO/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TODO_list/templates/TODO/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -133,7 +132,7 @@
       <updated>1574463785024</updated>
       <workItem from="1574463831433" duration="1229000" />
       <workItem from="1574466448575" duration="7369000" />
-      <workItem from="1574553010537" duration="5248000" />
+      <workItem from="1574553010537" duration="5904000" />
     </task>
     <task id="LOCAL-00001" summary="TODO 2 commit">
       <created>1574469801876</created>
