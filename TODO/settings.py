@@ -25,7 +25,7 @@ SECRET_KEY = '9hm^y$_)2zkwayt0%h8j9app=43)b$d%mlon9%x+$)p-^)q8i7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'popoxa.pythonanywhere.com']
 
 
 # Application definition
@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'TODO_list',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
