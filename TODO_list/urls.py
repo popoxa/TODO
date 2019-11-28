@@ -12,6 +12,5 @@ urlpatterns = [
     path('complete/<todo_id>', views.completeTodo, name='complete'),
     path('deletecomplete', views.deletecomplete, name='deletecomplete'),
     path('deleteall', views.deleteall, name='deleteall'),
-
-
+    path('api/', include('TODO_list.urls_api'))
 ]

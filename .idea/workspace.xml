@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc955269-a9d9-491f-bbfb-00a0c5aa3934" name="Default Changelist" comment="TODO 2 commit">
-      <change afterPath="$PROJECT_DIR$/TODO_list/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TODO_list/urls_api.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TODO/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TODO/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TODO/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO_list/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TODO_list/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TODO_list/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TODO_list/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO_list/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TODO_list/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,7 +138,7 @@
       <workItem from="1574553010537" duration="6265000" />
       <workItem from="1574785416969" duration="1943000" />
       <workItem from="1574946816660" duration="7358000" />
-      <workItem from="1574976991025" duration="7654000" />
+      <workItem from="1574976991025" duration="8217000" />
     </task>
     <task id="LOCAL-00001" summary="TODO 2 commit">
       <created>1574469801876</created>
